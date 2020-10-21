@@ -8,8 +8,8 @@
 
 ### <img src="https://media.giphy.com/media/l46Cedh27PeAL3fa0/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on CNN classifiers
-- 🌱 I’m currently learning Flask
+- 🔭 I’m currently working on deploying machine learning models 
+- 🌱 I’m currently learning Reinforcement learning
 - 👯 I’m looking to collaborate on Machine Learning projects
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Data Science and Programming
