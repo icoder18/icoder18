@@ -9,7 +9,7 @@
 ### <img src="https://media.giphy.com/media/l46Cedh27PeAL3fa0/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 I’m currently working on deploying machine learning models 
-- 🌱 I’m currently learning Reinforcement learning
+<!-- - 🌱 I’m currently learning Reinforcement learning -->
 - 👯 I’m looking to collaborate on Machine Learning projects
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Data Science and Programming
@@ -17,7 +17,7 @@
 - 😄 Pronouns: She, her
 - ⚡ Fun fact: I am a huge fan of "The Office"
 
-<p>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</p>
+<p>I love connecting with different people so if you want to say hi,<b> I'll be happy to meet you!</b> :)</p>
 
 <!--
 **icoder18/icoder18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
