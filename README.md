@@ -6,13 +6,13 @@
 [![GitHub icoder18](https://img.shields.io/github/followers/icoder18?label=follow&style=social)](https://github.com/icoder18)
 
 
-### <img src="https://media.giphy.com/media/l46Cedh27PeAL3fa0/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 - 🔭 I’m currently working on deploying machine learning models 
 <!-- - 🌱 I’m currently learning Reinforcement learning -->
 - 👯 I’m looking to collaborate on Machine Learning projects
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Data Science and Programming
+- 💬 Ask me about: Data Science, Programming, Front-end
 - 📫 How to reach me: deekshaamadan@gmail.com
 - 😄 Pronouns: She, her
 - ⚡ Fun fact: I am a huge fan of "The Office"
