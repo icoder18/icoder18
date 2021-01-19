@@ -8,7 +8,7 @@
 
 ### A little more about me...  
 
-- 🔭 I’m currently working on deploying machine learning models 
+- 🔭 I’m currently working on my internship projects
 <!-- - 🌱 I’m currently learning Reinforcement learning -->
 - 👯 I’m looking to collaborate on Machine Learning projects
 <!-- - 🤔 I’m looking for help with ... -->
