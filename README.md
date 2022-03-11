@@ -4,6 +4,8 @@
 
 [![Linkedin: deekshamadan](https://img.shields.io/badge/-deekshamadan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deekshamadan/)](https://www.linkedin.com/in/deekshamadan)
 [![GitHub icoder18](https://img.shields.io/github/followers/icoder18?label=follow&style=social)](https://github.com/icoder18)
+<img src="https://komarev.com/ghpvc/?username=icoder18&label=Profile%20views&color=0e75b6&style=flat" alt="icoder18" />
+
 
 
 ### A little more about me...  
